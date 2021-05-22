@@ -16,4 +16,4 @@
 -->
 
 [![Linkedin](https://img.shields.io/badge/-Linkedin-blue)](https://www.linkedin.com/in/raphael-gc/) 
-[![Portifolio](https://img.shields.io/badge/-Portifolio-blueviolet)](https://raphaelcarneiro.dev.br/)
+[![Portfolio](https://img.shields.io/badge/-Portifolio-green)](https://raphaelcarneiro.dev.br/)
