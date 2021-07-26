@@ -1,4 +1,4 @@
-### 👋Hey, it's me, Gok... Rapha😄 
+### 👋Hey, it's me, Rapha😄 
 
 
 - 🎓 I'm majoring in Analysis and Systems Development.
