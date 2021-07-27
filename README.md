@@ -6,8 +6,8 @@
 - 🌱 I’m currently learning the Jr Frontend Developer's role.
 
 <a href="https://github.com/Raphael-GC">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Raphael-GC&theme=dracula&show_icons=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raphael-GC&layout=compact&theme=dracula"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Raphael-GC&theme=shades-of-purple&show_icons=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raphael-GC&layout=compact&theme=shades-of-purple"/>
 <div>
 
 <!--
@@ -15,5 +15,5 @@
 - ⚡ Fun fact: ...
 -->
 
-[![Linkedin](https://img.shields.io/badge/-Linkedin-blue)](https://www.linkedin.com/in/raphael-gc/) 
-[![Portfolio](https://img.shields.io/badge/-Portifolio-green)](https://raphaelcarneiro.dev.br/)
+[![Linkedin](https://img.shields.io/badge/-Linkedin-purple)](https://www.linkedin.com/in/raphael-gc/) 
+[![Portfolio](https://img.shields.io/badge/-Portifolio-orange)](https://raphaelcarneiro.dev.br/)
