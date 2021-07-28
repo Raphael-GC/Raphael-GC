@@ -1,4 +1,4 @@
-### 👋Hey, it's me, Rapha😄 
+### 👋Hello World! It's me, Raphael 😄 
 
 
 - 🎓 I'm majoring in Analysis and Systems Development.
