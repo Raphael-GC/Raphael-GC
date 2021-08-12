@@ -12,3 +12,4 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Raphael-GC&theme=slateorange&show_icons=true"/>
 <div>
 
+  <h3> I'm a human being in love with learning how everything works. </h3>
