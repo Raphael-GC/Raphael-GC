@@ -6,7 +6,8 @@
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-Raphael%20Carneiro-a5d3fe?style=for-the-badge&logo=Linkedin&logoColor=ffffff&link=https://www.linkedin.com/in/raphael-gc/)](https://www.linkedin.com/in/raphael-gc/)
-[![Medium Badge](https://img.shields.io/badge/-@raphael%20gc-a5d3fe?style=for-the-badge&labelColor=a5d3fe&logo=medium&logoColor=ffffff&link=https://medium.com/@raphael-gc/)](https://medium.com/@raphael-gc/) 
+[![Medium Badge](https://img.shields.io/badge/-@raphael%20gc-a5d3fe?style=for-the-badge&labelColor=a5d3fe&logo=medium&logoColor=ffffff&link=https://medium.com/@raphael-gc/)](https://medium.com/@raphael-gc/)
+[![Rocketseat Badge](https://img.shields.io/badge/-Raphael%20Carneiro-8257E6?style=flat-square&logo=apache-rocketmq&logoColor=white&link=https://app.rocketseat.com.br/me/raphaelcarneiro/)](https://app.rocketseat.com.br/me/raphaelcarneiro/)
 
 
 <a href="https://github.com/Raphael-GC">
