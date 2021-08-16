@@ -10,6 +10,12 @@
 [![Rocketseat Badge](https://img.shields.io/badge/-Raphael%20Carneiro-8257E6?style=for-the-badge&logo=apache-rocketmq&logoColor=white&link=https://app.rocketseat.com.br/me/raphaelcarneiro/)](https://app.rocketseat.com.br/me/raphaelcarneiro/)
 
 
+Just hit, and get know me in your terminal 👇
+
+```sh
+npx raphaelgc
+```
+
 <a href="https://github.com/Raphael-GC">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Raphael-GC&theme=slateorange&show_icons=true"/>
 
