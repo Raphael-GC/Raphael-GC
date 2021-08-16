@@ -9,15 +9,13 @@
 [![Medium Badge](https://img.shields.io/badge/-@raphael%20gc-a5d3fe?style=for-the-badge&labelColor=a5d3fe&logo=medium&logoColor=ffffff&link=https://medium.com/@raphael-gc/)](https://medium.com/@raphael-gc/)
 [![Rocketseat Badge](https://img.shields.io/badge/-Raphael%20Carneiro-8257E6?style=for-the-badge&logo=apache-rocketmq&logoColor=white&link=https://app.rocketseat.com.br/me/raphaelcarneiro/)](https://app.rocketseat.com.br/me/raphaelcarneiro/)
 
+<a href="https://github.com/Raphael-GC">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Raphael-GC&theme=slateorange&show_icons=true"/>
 
-Just hit, and get know me in your terminal 👇
+<h4>Just hit, and get know me in your terminal 👇</h4>
 
 ```sh
 npx raphaelgc
 ```
-
-<a href="https://github.com/Raphael-GC">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Raphael-GC&theme=slateorange&show_icons=true"/>
-
 
  <h3>✨I'm a human being in love with learning how everything works.</h3> 
