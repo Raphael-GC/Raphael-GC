@@ -14,4 +14,4 @@
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Raphael-GC&theme=slateorange&show_icons=true"/>
 
 
- <h3><img src="https://media.giphy.com/media/CwTvSiWflgCGKgz5eb/giphy.gif" width="50px">I'm a human being in love with learning how everything works.</h3> 
+ <h3>✨I'm a human being in love with learning how everything works.</h3> 
