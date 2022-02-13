@@ -1,7 +1,7 @@
 <h1> 🧑🏽‍💻 Raphael Carneiro <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1> 
 
-- 🎓 I'm majoring in Analysis and Systems Development
-- 🌵 Working as IT Assistant
+- 🎓 I've majored in Analysis and Systems Development
+- 🌵 Working as IT Analyst
 - 🔥 Learning **React**, **React Native** and **Typescript**
 
 
