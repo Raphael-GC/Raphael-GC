@@ -9,8 +9,7 @@
 [![Medium Badge](https://img.shields.io/badge/-@raphael%20gc-a5d3fe?style=for-the-badge&labelColor=a5d3fe&logo=medium&logoColor=ffffff&link=https://medium.com/@raphael-gc/)](https://medium.com/@raphael-gc/)
 [![Rocketseat Badge](https://img.shields.io/badge/-Raphael%20Carneiro-8257E6?style=for-the-badge&logo=apache-rocketmq&logoColor=white&link=https://app.rocketseat.com.br/me/raphaelcarneiro/)](https://app.rocketseat.com.br/me/raphaelcarneiro/)
 
-<a href="https://github.com/Raphael-GC">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Raphael-GC&theme=slateorange&show_icons=true"/>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Raphael-GC&show_icons=true&theme=radical) [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Raphael-GC&theme=radical&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 <h4>Just hit, and get know me in your terminal 👇</h4>
 
