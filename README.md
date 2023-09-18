@@ -27,12 +27,11 @@
 
 ## 👣Rapha's footprints
 
-- 🎓 I've majored in Analysis and Systems Development
-- 🌵 IT Analyst at MEDGRUPO 
+- 🎓 Associate Degree in IT
 - 🔥 Learning **React**, **React Native** and **Typescript**
 
 
-<h4>Just hit, and get know me in your terminal 👇</h4>
+<h4>Just hit, and get to know me in your terminal 👇</h4>
 
 ```sh
 npx raphaelgc
