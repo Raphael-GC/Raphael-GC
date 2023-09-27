@@ -26,7 +26,7 @@
 ## 📫 How to reach me:
 
 <a href="https://linkedin.com/in/raphael-gc" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-raphael-gc-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+  <img align="center" src="https://img.shields.io/badge/-raphael&#45gc-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
 <a href="https://twitter.com/_raphaelgc" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-_raphaelgc-05122A?style=flat&logo=twitter" alt="twitter"/>  
