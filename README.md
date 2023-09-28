@@ -15,7 +15,9 @@
   
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Raphael-GC&layout=compact&theme=radical)](https://github.com/Raphael-GC/github-readme-stats) 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Raphael-GC&show_icons=true&theme=radical) [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Raphael-GC&theme=radical&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Raphael-GC&show_icons=true&theme=radical)]
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Raphael-GC&theme=radical&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 ## ✨ Fun facts
 
