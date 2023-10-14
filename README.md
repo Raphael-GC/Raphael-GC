@@ -15,9 +15,9 @@
   
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Raphael-GC&layout=compact&theme=earth)](https://github.com/Raphael-GC/github-readme-stats) 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Raphael-GC&show_icons=true&theme=earth)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Raphael-GC&show_icons=true&theme=gruvbox)
 
-[//]:< [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Raphael-GC&theme=radical&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats) >
+[//]:< [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Raphael-GC&theme=gruvbox&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats) >
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Raphael-GC&theme=earth&hide_border=true)](https://git.io/streak-stats)
 
