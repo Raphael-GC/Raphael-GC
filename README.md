@@ -13,7 +13,7 @@
 
 ##   🧑🏾‍💻 Most Used Languages 
   
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Raphael-GC&layout=compact&theme=earth)](https://github.com/Raphael-GC/github-readme-stats) 
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Raphael-GC&layout=compact&theme=gruvbox)](https://github.com/Raphael-GC/github-readme-stats) 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Raphael-GC&show_icons=true&theme=gruvbox)
 
