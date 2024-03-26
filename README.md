@@ -8,7 +8,7 @@
 
 - 🎓 Bachelor's Degree in Software Development - BYU-Idaho (2027)
 - 🎓 Associate Degree in IT (2021)
-- 🌵 I've more than five years of experience in IT. I worked as an intern, trainee and analyst.
+- 🌵 I've more than six years of experience in IT. I worked as an intern, trainee and analyst.
 - 🔥 Learning **React**, **React Native** and **Typescript**
 - 🔍 I'm a curious human being in love with learning how everything works. 
 
