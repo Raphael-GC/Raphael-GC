@@ -12,14 +12,14 @@
 
 </div>
 
+<img src="./.github/assets/gradient-bar.svg" width="100%" height="8px"/>
 <div>
-  <div>  
+  <div align="center">  
   <img width="41%" height="25%" src="https://github-readme-stats.vercel.app/api?username=Raphael-GC&show_icons=true&count_private=true&title_color=2d333b&icon_color=9d00ff&text_color=2d333b&bg_color=0,FFDE59,FF914D&border_color=fff0" /> 
   <img width="31%" height="15%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raphael-GC&layout=compact&title_color=2d333b&text_color=2d333b&bg_color=0,FFDE59,FF914D&border_color=fff0" />
   </div>
 </div>
-
-<img src="./.github/assets/gardient-bar.svg" width="100%" height="8px"/>
+<img src="./.github/assets/gradient-bar.svg" width="100%" height="8px"/>
 
 <div>
   
@@ -32,6 +32,6 @@
 ## 📫 Contact me:
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raphael-gc/)
-[![X](https://img.shields.io/badge/twitter-%ff00ff00.svg?style=for-the-badge&logo=X&logoColor=white)](https://twitter.com/_raphaelgc)
+[![X](https://img.shields.io/badge/twitter-%295919B0.svg?style=for-the-badge&logo=X&logoColor=white)](https://twitter.com/_raphaelgc)
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:FFDE59,100:FF914D&height=120&section=footer">
