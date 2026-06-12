@@ -1,7 +1,8 @@
-# Raphael Carneiro
+# 👨🏾 Raphael Carneiro
 
 *Professor de Geografia · Técnico em Eletrônica · Tecnólogo em ADS*
-*Pai de três · Entusiasta de tecnologia · Construtor de ideias de longo prazo*
+
+*Marido e Pai de três · Entusiasta de tecnologia · Construtor de ideias de longo prazo*
 
 ---
 
@@ -11,7 +12,7 @@ Evoluo conforme a vida permite. E a vida tem sido generosa em responsabilidades:
 
 ---
 
-## O que estou construindo
+## 🌱 O que estou construindo
 
 Dois projetos concentram minha energia hoje:
 
@@ -25,7 +26,7 @@ Ambos vivem em **[oraphael.net](https://oraphael.net)** — um site construído 
 
 ---
 
-## Bagagem técnica (não exaustiva, não certificada)
+## 🗃️ Bagagem técnica
 
 Ao longo dos anos, trabalhei com:
 
@@ -40,7 +41,7 @@ Nada disso veio em linha reta. Veio em cursos noturnos, estágios, empregos, gra
 
 ---
 
-## Sobre este perfil
+## 🖥️ Sobre este perfil
 
 Os repositórios aqui são experimentos, ferramentas pessoais e registros de aprendizado. Alguns estão pela metade. Alguns nunca vão terminar. Alguns são apenas anotações que me ocorreram.
 
