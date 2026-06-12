@@ -49,4 +49,4 @@ Se você chegou até aqui e reconhece algo nessa trajetória — o não-linear, 
 
 ---
 
-*Grow like a tree! · 🌳 · [oraphael.net](https://oraphael.net)*
+*Cresça como uma árvore! · 🌳 · [oraphael.net](https://oraphael.net)*
