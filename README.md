@@ -1,37 +1,51 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:FFDE59,100:FF914D&text=Hello,%20there!&animation=scaleIn&textBg=false&fontColor=2d333b&descAlignY=58&descAlign=60&desc=I'm%20Raphael-GC.%20Welcome%20to%20my%20code%20resort,%20and%20learning%20journal!&fontAlignY=38"/>
+# Raphael Carneiro
 
-<div>
-  
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20activities/Man%20Raising%20Hand%20Medium-Dark%20Skin%20Tone.png" alt="Man Raising Hand Medium-Dark Skin Tone" width="25" height="25" /> About me
+*Professor de Geografia · Técnico em Eletrônica · Tecnólogo em ADS*
+*Pai de três · Entusiasta de tecnologia · Construtor de ideias de longo prazo*
 
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Student%20Medium-Dark%20Skin%20Tone.png" alt="Student Medium-Dark Skin Tone" width="25" height="25" /> Associate Degree in IT (2021) | Bachelor's Degree in Software Development - BYU-Idaho (2024-2027) 
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Medium-Dark%20Skin%20Tone.png" alt="Man Technologist Medium-Dark Skin Tone" width="25" height="25" /> I've more than six years of experience in IT. I worked as an intern, technician, and analyst.
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Bullseye.png" alt="Bullseye" width="25" height="25" /> But now, I want to work as a Developer. 
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Detective%20Medium-Dark%20Skin%20Tone.png" alt="Detective Medium-Dark Skin Tone" width="25" height="25" /> I'm a curious guy, eager to discover how everything works in each corner of the tech world.  
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="25" height="25" /> Learning: <img src="https://skillicons.dev/icons?i=angular,nextjs,ts,tailwind,&theme=dark" alt="Techs" width="85" height="auto"/>
+---
 
-</div>
+Não sou desenvolvedor profissional. Mas tenho uma relação antiga com sistemas, lógica e construção — que começa no técnico em eletrônica, passa por suporte de TI, servidores Linux, redes e infraestrutura, e chega até aqui: um professor que ainda abre o editor de código nas madrugadas, quando a casa dorme.
 
-<img src="./.github/assets/gradient-bar.svg" width="100%" height="8px"/>
-<div>
-  <div align="center">  
-  <img width="41%" height="25%" src="https://github-readme-stats.vercel.app/api?username=Raphael-GC&show_icons=true&count_private=true&title_color=2d333b&icon_color=9d00ff&text_color=2d333b&bg_color=0,FFDE59,FF914D&border_color=fff0" /> 
-  <img width="31%" height="15%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raphael-GC&layout=compact&title_color=2d333b&text_color=2d333b&bg_color=0,FFDE59,FF914D&border_color=fff0" />
-  </div>
-</div>
-<img src="./.github/assets/gradient-bar.svg" width="100%" height="8px"/>
+Evoluo conforme a vida permite. E a vida tem sido generosa em responsabilidades: família, sala de aula, projetos de longo prazo e serviço eclesiástico. O GitHub aqui é o registro público dessa jornada — com os tropeços, as tentativas e o que vai ficando de pé.
 
-<div>
-  
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Grinning%20Face.png" alt="Grinning Face" width="25" height="25" /> Fun facts
+---
 
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Television.png" alt="Television" width="25" height="25" /> I love to watch a lot of anime and j-drama.
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20activities/Man%20Mountain%20Biking%20Medium-Dark%20Skin%20Tone.png" alt="Man Mountain Biking Medium-Dark Skin Tone" width="25" height="25" /> I find peace and balance in contact with nature, cycling, running, hiking, or resting in the shade of a tree.  
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20activities/Man%20Tipping%20Hand%20Medium-Dark%20Skin%20Tone.png" alt="Man Tipping Hand Medium-Dark Skin Tone" width="25" height="25" /> Solving problems through organization, simplicity, and code makes me extremely excited. 
+## O que estou construindo
 
-## 📫 Contact me:
+Dois projetos concentram minha energia hoje:
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raphael-gc/)
-[![X](https://img.shields.io/badge/twitter-%295919B0.svg?style=for-the-badge&logo=X&logoColor=white)](https://twitter.com/_raphaelgc)
+**[50 Anos à Liberdade](https://oraphael.net/#cinquenta)**
+Uma iniciativa pedagógica, econômica e política de quinze anos. Nasceu dentro de uma sala de aula de escola pública e cresce na interseção entre teoria crítica, prática social e design de futuros possíveis. Não é um projeto de tecnologia — mas a tecnologia está a serviço dele.
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:FFDE59,100:FF914D&height=120&section=footer">
+**[DescentralizeBR](https://oraphael.net/#descentralize)**
+Foco em soberania digital, tecnologias abertas e descentralização. O protocolo NOSTR é a espinha dorsal. A convicção é que infraestrutura importa — e que depender de plataformas centralizadas tem custo político e intelectual real.
+
+Ambos vivem em **[oraphael.net](https://oraphael.net)** — um site construído com HTML, CSS e JavaScript puro, onde o conteúdo principal vem de postagens feitas dentro do protocolo NOSTR. Sem frameworks desnecessários. Sem dependências que não entendo.
+
+---
+
+## Bagagem técnica (não exaustiva, não certificada)
+
+Ao longo dos anos, trabalhei com:
+
+- Eletrônica analógica e digital, sistemas lógicos, circuitos integrados programados em BASIC
+- Suporte de TI, infraestrutura, redes (Mikrotik, Nginx, Apache Tomcat)
+- Linux, Windows Server, MDT/WDS, administração de bancos (MariaDB, SQLite)
+- HTML, CSS, JavaScript — o suficiente para construir e manter o que preciso
+- Python e noções de C, C# — em formações acadêmicas interrompidas e retomadas
+- NOSTR protocol, Cloudflare Pages/Workers/R2
+
+Nada disso veio em linha reta. Veio em cursos noturnos, estágios, empregos, graduações pela metade ou concluídas, e muito erro.
+
+---
+
+## Sobre este perfil
+
+Os repositórios aqui são experimentos, ferramentas pessoais e registros de aprendizado. Alguns estão pela metade. Alguns nunca vão terminar. Alguns são apenas anotações que me ocorreram.
+
+Se você chegou até aqui e reconhece algo nessa trajetória — o não-linear, o fazer com o que tem, o construir por convicção — provavelmente temos algo em comum.
+
+---
+
+*Grow like a tree! · 🌳 · [oraphael.net](https://oraphael.net)*
