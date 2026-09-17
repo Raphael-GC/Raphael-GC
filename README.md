@@ -22,7 +22,7 @@ Uma iniciativa pedagógica, econômica e política de quinze anos. Nasceu dentro
 **[DescentralizeBR](https://oraphael.net/#descentralize)**
 Foco em soberania digital, tecnologias abertas e descentralização. O protocolo NOSTR é a espinha dorsal. A convicção é que infraestrutura importa — e que depender de plataformas centralizadas tem custo político e intelectual real.
 
-Ambos vivem em **[oraphael.net](https://oraphael.net)** — um site construído com HTML, CSS e JavaScript puro, onde o conteúdo principal vem de postagens feitas dentro do protocolo NOSTR. Sem frameworks desnecessários. Sem dependências que não entendo.
+Ambos vivem em **[oraphael.net](https://oraphael.net)** — um site construído puramente com HTML, CSS e JavaScript, onde o conteúdo principal vem de postagens feitas dentro do protocolo NOSTR. Sem frameworks desnecessários. Sem dependências que não entendo.
 
 ---
 
